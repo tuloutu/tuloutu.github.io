@@ -2,11 +2,11 @@
 layout: page
 ---
 
-# **ChatGPT一键注册+升级教程(2024年2月亲测)**
+# **ChatGPT一键注册+升级(2024年2月亲测)**
 
 ## 如何升级 ChatGPT 4.0
 
-<img src="https://tuloutu.github.io/_20240224201640.jpg" class="floatpic" width="1247" height="549">
+<img src="https://tuloutu.github.io/_20240224201640.jpg" class="floatpic" width="623" height="274">
 
 ### 	一个网站搞定原生Open AI：
 
@@ -19,9 +19,3 @@ layout: page
 ​                开通的是有效期1-2年的虚拟信用卡，开卡费包含两年年费，大约 70 元RMB，每天成本不到 1.5 毛钱。其他费用无，根据个人需求充值。
 
 ​                 关键是，如果没有消费成功，可以随时提现余额到支付宝。
-
-## 
-
-
-
-<br>
