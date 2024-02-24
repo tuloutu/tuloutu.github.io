@@ -1,55 +1,62 @@
 ---
 layout: page
 permalink: /teams/index.html
-title: Teams
+title: Onlyfans
 ---
 
-## Motivation
+# onlyfans国内支付（2024年2月亲测）
 
-As a youth from southern Fujian (Hokkien), entrepreneurial spirit runs in my family's and my own bones. From a young age, we were instilled with the concept that one must become their own "boss" and setup their own business. In my heart, I firmly believe that I belong to the business world (maybe not the academic one).<br>
+onlyfans不支持国内银行开的普通卡，需要使用特定的虚拟卡进行订阅。
 
-## OpenIoT Team
+下面我们来看下社交平台onlyfans虚拟信用卡订阅教程。
 
-During undergraduate, my two roommates and I co-founded a tech group called **OpenIoT**. With an entrepreneurial spirit in technology, we participated in numerous innovation and entrepreneurship competitions. As of 2024, the OpenIoT team has grown to include 28 official members and has accumulated a total of six national-level competition awards and over $20000 funding.<br>
 
-## Team News
 
-- **Jan 2024：**Our team won the Finalist Award (Top 3%) in China International College Students’ Innovation Competition.
-- **Sep 2023：**Our work [Defender](https://fzuiot.site/) has been reported by [Youth of FZU (News)](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **May 2023：**If you are interested in the IoT, robotics, or AIGC, we welcome you to [join OpenIoT](https://fzuiot.site/english/).
+## 一、注册
 
-<br>
+### 1.1 注册链接：https://onlyfans.com/
+	（使用国内邮箱、qq、163 等邮箱即可注册）
 
----
+<img src="D:\Users\Lenovo\Documents\GitHub\tuloutu.github.io\images\3.png" style="zoom:67%;" />
 
-## Our Fundings
+### 1.2 邮箱验证
 
-- DefenderIoT — Leading the New Generation of Industrial Inspection<br>**Funding $2000** (Grant No.)<br>China International College Students’ Innovation Competition Award<br>Project Leader & Product Manager (2024)<br><br>
-- Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
+​	然后进行邮箱验证，我们这里点击发送会收到一封onlyfans的验证邮件，将收到的链接在登录的浏览器里复制粘贴打开即可验证成功
 
-<br>
+![](D:\Users\Lenovo\Documents\GitHub\tuloutu.github.io\images\4.png)
 
 ---
 
-## Some Group Photos
+## 二、支付
 
-> Our group website: https://fzuiot.site/
+### 2.1 不建议大家去某宝店铺买
 
-<left>
-  <img src = "https://p.ipic.vip/l97lne.jpg">
-</left>
+淘宝店铺的开卡费很贵，并且是一次性使用！！！
 
+我已经踩过坑了，买了 30 usd，实际汇率只需要 220 元左右，但是收了 280，最最关键的是这个卡只能用一次，是临时的！
 
-<br>
+<img src="D:\Users\Lenovo\Documents\GitHub\tuloutu.github.io\images\5.png" style="zoom:60%;" />
 
-<div class="third">
-<img src="https://p.ipic.vip/3g1514.jpg">
-<img src="https://p.ipic.vip/9mnzf6.jpg">
-<img src="https://p.ipic.vip/04r3o2.jpg">
-</div>
+### 2.2 推荐长期稳定的虚拟卡平台：
 
+https://bewildcard.com/i/GPT66 ( 使用这个链接复制到浏览器打开，2分钟即可搞定开卡，还可享受88折优惠~)
 
+用这个链接还可以享受开卡88折优惠，开卡费总共100元左右，**开的卡有效期达2年**，后续每次消费只需要充值你需要的美元金额即可，直接银行卡就能支付入账，超级方便，冲多了还可以提现回来。
 
+![](D:\Users\Lenovo\Documents\GitHub\tuloutu.github.io\images\6.png)
 
-<br>
+## 三 开好卡后，如何使用
+
+首先往卡里充值订阅博主付费内容需要的金额即可（建议多充1-2美元，防止扣款失败）
+
+然后去onlyfans绑定虚拟卡，https://onlyfans.com/my/payments/add_card：
+
+上面需要的每一项信息，都可以直接在虚拟卡网页上看到，直接复制过去即可：
+
+![](D:\Users\Lenovo\Documents\GitHub\tuloutu.github.io\images\7.png)
+
+## 四 END
+
+绑定支付信用卡后，就可以去订阅喜欢的博主啦，比如 hongkongdoll 之类的，是不是很快捷：
+
+![](D:\Users\Lenovo\Documents\GitHub\tuloutu.github.io\images\8.png)
