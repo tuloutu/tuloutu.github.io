@@ -6,7 +6,7 @@ layout: page
 
 ## 如何升级 ChatGPT 4.0
 
-![](D:\Users\Lenovo\Documents\GitHub\tuloutu.github.io\images\1.jpg)
+![](images/1.jpg)
 
 ### 	一个网站搞定原生Open AI：
 

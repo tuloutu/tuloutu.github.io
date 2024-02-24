@@ -17,13 +17,13 @@ onlyfans不支持国内银行开的普通卡，需要使用特定的虚拟卡进
 ### 1.1 注册链接：https://onlyfans.com/
 	（使用国内邮箱、qq、163 等邮箱即可注册）
 
-<img src="D:\Users\Lenovo\Documents\GitHub\tuloutu.github.io\images\3.png" style="zoom:67%;" />
+![](images/2.png)
 
 ### 1.2 邮箱验证
 
 ​	然后进行邮箱验证，我们这里点击发送会收到一封onlyfans的验证邮件，将收到的链接在登录的浏览器里复制粘贴打开即可验证成功
 
-![](D:\Users\Lenovo\Documents\GitHub\tuloutu.github.io\images\4.png)
+![](images/3.png)
 
 ---
 
@@ -35,7 +35,7 @@ onlyfans不支持国内银行开的普通卡，需要使用特定的虚拟卡进
 
 我已经踩过坑了，买了 30 usd，实际汇率只需要 220 元左右，但是收了 280，最最关键的是这个卡只能用一次，是临时的！
 
-<img src="D:\Users\Lenovo\Documents\GitHub\tuloutu.github.io\images\5.png" style="zoom:60%;" />
+![](images/5.png)
 
 ### 2.2 推荐长期稳定的虚拟卡平台：
 
@@ -43,7 +43,7 @@ https://bewildcard.com/i/GPT66 ( 使用这个链接复制到浏览器打开，2�
 
 用这个链接还可以享受开卡88折优惠，开卡费总共100元左右，**开的卡有效期达2年**，后续每次消费只需要充值你需要的美元金额即可，直接银行卡就能支付入账，超级方便，冲多了还可以提现回来。
 
-![](D:\Users\Lenovo\Documents\GitHub\tuloutu.github.io\images\6.png)
+![](images/6.png)
 
 ## 三 开好卡后，如何使用
 
@@ -53,10 +53,10 @@ https://bewildcard.com/i/GPT66 ( 使用这个链接复制到浏览器打开，2�
 
 上面需要的每一项信息，都可以直接在虚拟卡网页上看到，直接复制过去即可：
 
-![](D:\Users\Lenovo\Documents\GitHub\tuloutu.github.io\images\7.png)
+![](images/7.png)
 
 ## 四 END
 
 绑定支付信用卡后，就可以去订阅喜欢的博主啦，比如 hongkongdoll 之类的，是不是很快捷：
 
-![](D:\Users\Lenovo\Documents\GitHub\tuloutu.github.io\images\8.png)
+![](images/8.png)
