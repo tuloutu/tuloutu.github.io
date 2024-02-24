@@ -6,7 +6,7 @@ layout: page
 
 ## 如何升级 ChatGPT 4.0
 
-<img src="https://tuloutu.github.io/1.jpg" class="floatpic" width="623" height="274">
+<img src="https://tuloutu.github.io/1.jpg" class="floatpic" width="1250" height="450">
 
 ### 	一个网站搞定原生Open AI：
 

@@ -6,8 +6,7 @@ url: https://tuloutu.github.io
 
 # Owner/author information
 owner:
-  name: Tuloutu
-  avatar: 2.jpg
+
   # bio: Two roads diverged in woods, I took the one less traveled by.
   #email: hanlin.cai@ieee.org
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -39,7 +38,7 @@ links:
   - title: ChatGPT
     url: /
   - title: Onlyfans
-    url: /teams/
+    url: /Onlyfans/
   #- title: Sora
    # url: /publications/
   #- title: Awards
