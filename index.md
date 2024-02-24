@@ -6,13 +6,13 @@ layout: page
 
 ## 如何升级 ChatGPT 4.0
 
-<img src="https://tuloutu.github.io/_20240224201640.jpg" class="floatpic" width="623" height="274">
+<img src="https://tuloutu.github.io/1.jpg" class="floatpic" width="623" height="274">
 
 ### 	一个网站搞定原生Open AI：
 
 ​		（ps：如果这都懒得做可以找我帮你直接开通：微信：tyf_cscsu)
 
-#### 	     推荐 wildcard 平台：
+#### 	     推荐 wildcard 平台：https://
 
 ​	        这是一个虚拟卡平台（正规的，支付宝可以充值），开卡之后可以用 2 年，并且提供了一键升级和一键注册账号的能力：注册的时候如果没有填邀请码，可以手动填入邀请码，可以免 2 美元的开卡费～
 
