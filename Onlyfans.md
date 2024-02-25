@@ -15,9 +15,8 @@ title: Onlyfans
 ## 一、注册
 
 ### 1.1 注册链接：
-[https://onlyfans.com/]: (https://onlyfans.com/	")"
 
-
+ [https://onlyfans.com/](https://onlyfans.com/)
 
 	（使用国内邮箱、qq、163 等邮箱即可注册）
 
@@ -43,9 +42,7 @@ title: Onlyfans
 
 ### 2.2 最后成功搞成的虚拟卡平台：
 
-​	
-
-[https://bewildcard.com/i/AI686]: https://bewildcard.com/i/AI686
+​	 [https://bewildcard.com/i/AI686](https://bewildcard.com/i/AI686)
 
 ​	用这个链接还可以享受开卡88折优惠，2分钟即可搞定开卡，开卡费总共100元左右，**开的卡有效期达2年**，【1年70块左右】后续每次消费只需要充值你需要的美元金额即可，直接银行卡就能支付入账，超级方便，冲多了还可以提现回来。
 

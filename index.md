@@ -8,9 +8,7 @@ layout: page
 
 ![](images/1.jpg)
 
-### 	一个网站搞定原生Open AI：
-
-[https://bewildcard.com/i/AI686]: （https://bewildcard.com/i/AI686	"）"
+### 	一个网站搞定原生Open AI： [https://bewildcard.com/i/AI686](https://bewildcard.com/i/AI686)
 
 ##### 		（ps：如果这都懒得做可以找我帮你直接开通：微信：tyf_cscsu)
 
