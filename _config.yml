@@ -36,7 +36,7 @@ url: https://tuloutu.github.io
 # For external links add external: true
 links:
   - title: ChatGPT
-   # url: /
+    url: /
   - title: Onlyfans
     url: /Onlyfans/
   #- title: Sora
