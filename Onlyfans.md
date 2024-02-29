@@ -4,7 +4,7 @@ permalink: /Onlyfans/index.html
 title: Onlyfans
 ---
 
-# onlyfan十分火急的教程（2024年2月亲测）
+# onlyfan注册订阅教程（2024年3月亲测）
 
 ​	onlyfans不支持国内银行开的普通卡，需要使用特定的虚拟卡进行订阅。
 
@@ -63,3 +63,7 @@ title: Onlyfans
 ​	绑定支付信用卡后，就可以去订阅喜欢的博主啦，比如 hongkongdoll 之类的，是不是很快捷：
 
 ![](images/8.png)
+
+
+
+！【帮助中心】的回答十分的详细，可以看看能否解决你的问题
